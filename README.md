@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Yash Baviskar</h1>
-<h3 align="center">I don’t just build ML models — I build the systems that keep them running.</h3>
+
 
 <p align="center">
   <b>Data Engineering | MLOps | Backend Infrastructure</b><br>
-  <i>Crafting systems that survive scale.</i>
+  <i>Learning to Craft systems that survive scale.</i>
 </p>
 
 
