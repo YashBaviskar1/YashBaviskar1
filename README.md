@@ -10,8 +10,7 @@
 ***
 
 ### About
-I am an Associate Data Scientist and engineer focused on the intersection of machine learning, distributed systems, and backend infrastructure. I treat machine learning as a rigorous engineering discipline. Rather than solely training models in isolated environments, my work centers on infrastructure-aware ML engineering—designing systems that allow models to be reliably versioned, deployed, monitored, and scaled.
-
+I am an Associate Data Scientist and engineer focused on the intersection of machine learning, distributed systems, and backend infrastructure. 
 I view MLOps not just as a set of tools, but as a commitment to system correctness, reproducibility, and engineering rigor. My goal is to bridge the gap between abstract data science and real-world software engineering, ensuring that models perform under practical constraints like scale, latency, and hardware failure.
 
 **Core Engineering Focus:**
