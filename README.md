@@ -79,8 +79,6 @@ I am actively interested in collaborating on scalable ML infrastructure, data pl
 </div>
 
 <br/>
-
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=YashBaviskar1&icon=0&color=0)
-  </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashBaviskar1&icon=0&color=0" />
+</p>
