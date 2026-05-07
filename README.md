@@ -80,5 +80,5 @@ I am actively interested in collaborating on scalable ML infrastructure, data pl
 
 <br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashBaviskar1 />
+  <img src="https://komarev.com/ghpvc/?username=YashBaviskar1" />
 </p>
